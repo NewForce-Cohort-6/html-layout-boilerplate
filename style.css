@@ -1,0 +1,43 @@
+.main-heading {
+    width: 80vw;
+    height: 20vh;
+    border: 2px solid green;
+    margin: auto;
+}
+
+.three-column-container {
+    width: 80vw;
+    height: 70vh;
+    border: 2px solid blueviolet;
+    margin: auto;
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom-footer {
+    width: 80vw;
+    height: 10vh;
+    border: 2px solid pink;
+    margin: auto;
+    margin-top: 1em;
+}
+
+
+
+.column{
+    border: 2px solid orange;
+    height: 100%;
+    width: 30%;
+}
+
+.subsection {
+    border: 2px solid red;
+    height: 45%;
+    margin: 1em;
+}
+
+.big-column {
+    width: 50%;
+}
+
